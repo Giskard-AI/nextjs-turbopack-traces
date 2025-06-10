@@ -1,0 +1,15 @@
+{
+  "name": "Next Dev 15.2.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "trace": "next internal turbo-trace-server traces/trace-turbopack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "15.2.0"
+  }
+}
