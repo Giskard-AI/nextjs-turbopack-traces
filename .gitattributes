@@ -1,2 +1,2 @@
-trace filter=lfs diff=lfs merge=lfs -text
+trace-turbopack filter=lfs diff=lfs merge=lfs -text
 **/trace-turbopack filter=lfs diff=lfs merge=lfs -text
